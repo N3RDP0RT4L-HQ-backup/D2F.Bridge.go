@@ -1,0 +1,5 @@
+{
+  "discordWebhookURL": "https://discord.com/api/webhooks/XXXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "fosscordURL": "https://my-fosscord-server.com/api/v1/channels/XXXXXXXXXXXXX/messages",
+  "fosscordToken": "my-fosscord-token"
+}
